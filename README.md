@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am Eugene, a software developer
+
 ## Tech Stack
 <p float="left">
 <img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g" height="100px"/>
