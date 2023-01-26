@@ -4,6 +4,7 @@
 ![HTML](https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g =100x20)
 ![CSS](https://www.computerhope.com/jargon/c/css.png =100x20)
 ![Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =100x20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 
 - 🔭 I’m currently working on being better at software development
 - 🌱 I’m currently learning 
