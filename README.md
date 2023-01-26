@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Tech Stack
-![HTML](https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g =100x20)
-![CSS](https://www.computerhope.com/jargon/c/css.png =100x20)
-![Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =100x20)
+<img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g" height="100px"/>
+<img src="https://www.computerhope.com/jargon/c/css.png =100x20" height="100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100px" />
 
 - 🔭 I’m currently working on being better at software development
