@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-**Genics85/genics85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Tech Stack
+![HTML](https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g)
+![CSS](https://www.computerhope.com/jargon/c/css.png)
 
 - 🔭 I’m currently working on being better at software development
 - 🌱 I’m currently learning 
