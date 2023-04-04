@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Eugene, a software developer
+## I am Eugene, a software Engineer
 
 ## Tech Stack
 <p float="left">
@@ -14,9 +14,11 @@
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" height="90px" />
 </p>
 
-- 🔭 I’m currently working on being better at software developer
-- 🌱 I’m currently learning and building
+- 🔭 Cooking, will be ready soon
+- 🌱 Wake up and build
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for gigs, contracts and job opportunities 😶
+- 😎 Open for collaborations, gigs and job opportunities
 - 📫 How to reach me: eugeneamo85@gmail.com [Twitter](https://twitter.com/genics_code)
-- ⚡ Fun fact: I listen more than 3 albums a day
+
+### Currently learning Kotlin (server side)
+
