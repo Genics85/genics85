@@ -14,11 +14,11 @@
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" height="90px" />
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/d003b8ee-6de9-4c42-8918-5e3c25de2904.svg)](https://wakatime.com/@d003b8ee-6de9-4c42-8918-5e3c25de2904)
 - 🔭 Cooking, will be ready soon
 - 🌱 Wake up and build
-- 👯 I’m looking to collaborate on open source projects
 - 😎 Open for collaborations, gigs and job opportunities
-- 📫 How to reach me: eugeneamo85@gmail.com [Twitter](https://twitter.com/genics_code)
+- 📫 How to reach me: eugeneamo85@gmail.com
 
 ### Currently learning Kotlin (server side)
 
