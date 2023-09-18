@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## I am Eugene, a software Engineer
+## I am Eugene, a Software Engineer.
 
-# A full stack developer
 ReactJs/Ts <br/>
 NodeJs/Ts <br/>
 SpringBoot <br/>
